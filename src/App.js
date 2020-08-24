@@ -97,4 +97,4 @@ ReactDOM.render(
 );
 
 
-export default withAuthenticator(App, true);
+export default withAuthenticator(TodoApp, true);
